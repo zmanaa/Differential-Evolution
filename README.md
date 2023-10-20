@@ -1,7 +1,5 @@
 # Differential Evolution
 
-# My Project Name
-
 This repository contains code for evaluating optimization algorithms on sample problems. It includes an implementation of differential evolution
 
 ## Getting Started
