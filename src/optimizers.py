@@ -5,13 +5,6 @@ Uses the differential evolution algorithm to minimize a cost function. This opti
 represents a population of candidate solutions that evolve towards better solutions over 
 multiple generations using mutation and crossover genetic operators.
 
-Key Points:
-- Implements the core steps of DE: initialization, mutation, crossover, evaluation
-- Population and trial vectors are stored as NumPy arrays for efficiency  
-- Ensures solutions remain within bounds after mutation
-- Tracks best solution, costs over generations for visualization
-- Terminates when avg cost approaches best or max gens reached
-
 Author: Zeyad M. Manaa
 Date: October 20, 2023
 """
