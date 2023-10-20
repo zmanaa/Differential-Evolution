@@ -33,18 +33,3 @@ This will install any dependencies needed to run the code.
 The optimizers.py module contains an implementation of the DifferentialEvolution optimizer. Utility functions used by the optimizers are in utilis.py.
 
 An example Jupyter notebook (example.ipynb) shows how to use the DifferentialEvolution class to optimize a sample function.
-
-## Contributing
-
-TBD
-
-## License 
-
-TBD
-
-## Acknowledgements
-
-TBD
-```
-
-How's this? I've wrapped the pip command in a code block with bash to indicate it should be run in a terminal/command prompt.
